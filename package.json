@@ -1,0 +1,28 @@
+{
+  "name": "oauth",
+  "version": "0.0.1",
+  "description": "NextJS template for connecting Google Drive via OAuth & navigating files.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "author": "Jo du Plessis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "eventemitter3": "^4.0.0",
+    "googleapis": "^49.0.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "knex": "^0.21.1",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.12",
+    "next": "^9.3.6",
+    "next-connect": "^0.6.5",
+    "pg": "^8.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-feather": "git+https://github.com/joduplessis/react-feather.git"
+  }
+}
