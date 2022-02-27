@@ -21,4 +21,4 @@ NextJS should start up on port 3000.
 
 ## Support
 
-This is purely a reference project, please ping about any fixes/bugs/etc.
+This is purely a reference project, please feel free to ping me about any fixes/bugs/etc.
